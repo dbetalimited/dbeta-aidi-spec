@@ -95,7 +95,7 @@ Each file represents a collection of entities of a specific type.
 
 All AIDI data should be accessible via:
 
-https://example.com/aidi/
+https://www.dbeta.co.uk/aidi/
 
 Requirements:
 - Publicly accessible
