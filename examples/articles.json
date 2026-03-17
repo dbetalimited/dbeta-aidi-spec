@@ -1,0 +1,22 @@
+[
+  {
+    "type": "article",
+    "id": "why-websites-need-structural-strategy",
+    "title": "Why Websites Need Structural Strategy",
+    "category": "digital-architecture",
+    "relatedServices": ["structural-strategy"],
+    "author": "DBETA",
+    "published": "2026-03-17",
+    "url": "https://www.dbeta.co.uk/blog/why-websites-need-structural-strategy.html"
+  },
+  {
+    "type": "article",
+    "id": "what-is-machine-legibility-for-ai-search",
+    "title": "What Is Machine Legibility for AI Search?",
+    "category": "ai-search",
+    "relatedServices": ["machine-legibility-aidi-layer", "digital-platform-engineering"],
+    "author": "DBETA",
+    "published": "2026-03-17",
+    "url": "https://www.dbeta.co.uk/blog/what-is-machine-legibility-for-ai-search.html"
+  }
+]

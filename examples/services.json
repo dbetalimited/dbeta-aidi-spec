@@ -1,0 +1,32 @@
+[
+  {
+    "type": "service",
+    "id": "structural-strategy",
+    "name": "Structural Strategy",
+    "description": "Strategic planning for digital systems, content structures, and website architecture built for long-term scalability, governance, and growth.",
+    "category": "digital-architecture",
+    "related": ["digital-platform-engineering", "machine-legibility-aidi-layer"],
+    "url": "https://www.dbeta.co.uk/structural-strategy.html",
+    "lastUpdated": "2026-03-17"
+  },
+  {
+    "type": "service",
+    "id": "digital-platform-engineering",
+    "name": "Digital Platform Engineering",
+    "description": "Engineering of scalable, maintainable, and performance-led digital platforms designed to support modern business operations and future development.",
+    "category": "digital-architecture",
+    "related": ["structural-strategy", "machine-legibility-aidi-layer"],
+    "url": "https://www.dbeta.co.uk/digital-platform-engineering.html",
+    "lastUpdated": "2026-03-17"
+  },
+  {
+    "type": "service",
+    "id": "machine-legibility-aidi-layer",
+    "name": "Machine Legibility (AIDI Layer)",
+    "description": "A structured machine-readable layer that helps digital platforms expose clear entities, relationships, and AI-ready outputs for search, discovery, and system interoperability.",
+    "category": "ai-ready-infrastructure",
+    "related": ["structural-strategy", "digital-platform-engineering"],
+    "url": "https://www.dbeta.co.uk/machine-legibility-aidi-layer.html",
+    "lastUpdated": "2026-03-17"
+  }
+]
